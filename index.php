@@ -26,6 +26,15 @@ $title = "Git Workflow Simulation";
     </ul>
 </section>
 
+   <section>
+            <h2>Tujuan Project Akhir</h2>
+            <p>
+                Proyek ini bertujuan untuk memahami alur kerja Git seperti commit,
+                branch, dan pull request dalam pengembangan perangkat lunak tim.
+            </p>
+        </section>
+
+
 
     <button onclick="showMessage()">Klik Saya</button>
 
