@@ -9,3 +9,7 @@ function showProjectInfo() {
 }
 
 console.log("Git Workflow Simulation loaded.");
+
+window.onload = function() {
+    console.log("Page loaded successfully.");
+}
