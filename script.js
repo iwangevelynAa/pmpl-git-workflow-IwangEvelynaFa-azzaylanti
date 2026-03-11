@@ -1,7 +1,7 @@
 // Git Workflow Simulation Script
 
 function showMessage() {
-    alert("Praktikum Git Workflow berjalan.");
+    alert("Halo! Selamat datang di Praktikum Git Workflow Simulation.");
 }
 
 console.log("Git Workflow Simulation loaded.");
