@@ -34,6 +34,14 @@ $title = "Git Workflow Simulation";
             </p>
         </section>
 
+        <section>
+    <h2>Aktivitas Project</h2>
+    <ul>
+        <li>Membuat repository GitHub</li>
+        <li>Melakukan commit perubahan</li>
+        <li>Menggabungkan kode melalui pull request</li>
+    </ul>
+</section>
 
 
     <button onclick="showMessage()">Klik Saya</button>
